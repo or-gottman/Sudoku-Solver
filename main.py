@@ -14,10 +14,11 @@ def main():
         [1, 2, 0, 0, 0, 7, 4, 0, 0],
         [0, 4, 9, 2, 0, 6, 0, 0, 7]
     ]
-    print_board(board)
+
+    # print_board(board)
     solve(board)
-    print("___________________")
-    print_board(board)
+    # print("___________________")
+    # print_board(board)
 
 
 main()
